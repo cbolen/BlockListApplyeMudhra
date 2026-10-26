@@ -1,0 +1,15 @@
+# Gradle / Android build output
+.gradle/
+build/
+app/build/
+local.properties
+.idea/
+*.iml
+captures/
+*.apk
+*.aab
+# Signing material
+*.jks
+*.keystore
+# Stray local copies
+*Copy*
